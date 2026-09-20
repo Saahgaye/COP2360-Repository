@@ -25,13 +25,6 @@ blah blah blah
  * .NET Framework
    
 ## Niche Runtimes
-## A Brief History of C# 
-https://learning.oreilly.com/library/view/c-12-in/9781098147433/ch01.html#a_brief_history_of_chash 
 
-### What’s New in C# 12
- * Collection expressions
- * Primary constructors in classes and structs
- * Default lambda parameters
- * Alias any type
- * Other new features
+
    
